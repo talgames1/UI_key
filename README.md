@@ -1,4 +1,4 @@
-# Luxify Assistant - Voice Control AI System   ---VERSION ALPHA: 0.2---
+# Luxify Assistant - Voice Control AI System   ---VERSION ALPHA: 0.3---
 
 A sleek, modern voice-controlled AI application that listens to user-spoken commands and launches applications based on those commands.
 
