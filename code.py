@@ -596,7 +596,7 @@ class VoiceAIApp(QMainWindow):
         layout = QVBoxLayout()
         
         # Header
-        header = QLabel("ОСНОВНОЕ ОКНО")
+        header = QLabel("GENERAL WINDOW")
         header.setFont(QFont("Arial", 24, QFont.Weight.Bold))
         layout.addWidget(header)
         
